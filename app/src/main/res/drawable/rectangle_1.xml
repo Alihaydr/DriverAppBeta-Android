@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pressed state -->
+    <item android:state_pressed="true">
+<vector
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="300dp"
+    android:height="50dp"
+    android:viewportWidth="300"
+    android:viewportHeight="50"
+    >
+    <group>
+        <clip-path
+            android:pathData="M15 0H285C293.284 0 300 6.71573 300 15V35C300 43.2843 293.284 50 285 50H15C6.71573 50 0 43.2843 0 35V15C0 6.71573 6.71573 0 15 0Z"
+            />
+        <group
+            android:translateX="0.385"
+            android:translateY="-14.75"
+            android:pivotX="150"
+            android:pivotY="25"
+            android:scaleX="2.454"
+            android:scaleY="59.94"
+            android:rotation="38.868"
+            >
+            <path
+                android:pathData="M0 0V50H300V0"
+                >
+                <aapt:attr name="android:fillColor">
+                    <gradient
+                        android:type="linear"
+                        android:startX="75"
+                        android:startY="25"
+                        android:endX="225"
+                        android:endY="25"
+                        >
+                        <item
+                            android:color="#78000F"
+                            android:offset="0"
+                            />
+                        <item
+                            android:color="#db0018"
+                            android:offset="1"
+                            />
+                    </gradient>
+                </aapt:attr>
+            </path>
+        </group>
+    </group>
+</vector>
+    </item>
+    <item>
+        <vector
+            xmlns:aapt="http://schemas.android.com/aapt"
+            android:width="300dp"
+            android:height="50dp"
+            android:viewportWidth="300"
+            android:viewportHeight="50"
+            >
+            <group>
+                <clip-path
+                    android:pathData="M15 0H285C293.284 0 300 6.71573 300 15V35C300 43.2843 293.284 50 285 50H15C6.71573 50 0 43.2843 0 35V15C0 6.71573 6.71573 0 15 0Z"
+                    />
+                <group
+                    android:translateX="0.385"
+                    android:translateY="-14.75"
+                    android:pivotX="150"
+                    android:pivotY="25"
+                    android:scaleX="2.454"
+                    android:scaleY="59.94"
+                    android:rotation="38.868"
+                    >
+                    <path
+                        android:pathData="M0 0V50H300V0"
+                        >
+                        <aapt:attr name="android:fillColor">
+                            <gradient
+                                android:type="linear"
+                                android:startX="75"
+                                android:startY="25"
+                                android:endX="225"
+                                android:endY="25"
+                                >
+                                <item
+                                    android:color="#db0018"
+                                    android:offset="0"
+                                    />
+                                <item
+                                    android:color="#78000F"
+                                    android:offset="1"
+                                    />
+                            </gradient>
+                        </aapt:attr>
+                    </path>
+                </group>
+            </group>
+        </vector>
+    </item>
+</selector>

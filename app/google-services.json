@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560337368220",
+    "project_id": "uberlike-99297",
+    "storage_bucket": "uberlike-99297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560337368220:android:738b6b2318d60c352f2959",
+        "android_client_info": {
+          "package_name": "com.example.taxiappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560337368220-ojsjkdrv7s39u4g8ofiaccm39tc328ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxiappkotlin",
+            "certificate_hash": "a8060ff7c216a58f16091e703c5324810982402f"
+          }
+        },
+        {
+          "client_id": "560337368220-tl02firp7k5gakqgt2jqmumfne3eotgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXGrqFq0Q2mix4uX9P5Fr4bMoWsXKMXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560337368220-tl02firp7k5gakqgt2jqmumfne3eotgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
